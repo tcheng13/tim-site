@@ -5,6 +5,9 @@ date: "2020-01-17"
 
 I am at my internship learning Gatsby.
 
+
+![Berkeley](./berkeley.jpg)
+
 ## What I'm Doing Today
 
 1. Learning Gatsby
